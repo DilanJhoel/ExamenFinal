@@ -55,6 +55,6 @@ Microsoft Graphics Hybrid: Not Supported
 "stats"           "4.1.3"<br>     
 "tools"           "4.1.3"<br>     
 ## Explicación de la data utilizada
-**mRNA_expr.csv** → Se muestras datos y características de mutaciones en los genes: "BRCA", "OV", "LUSC", "KIPAN", "KIRP", "UCEC" con riesgo de desarrollar cancer y sus factores de transcripción: "GATA3", "PTEN",  "XBP1",  "ESR1",  "MUC1", "FN1", "GAPDH", "GAPDH", "XBP1".
+**mRNA_expr.csv** → Se muestras datos y características de mutaciones en los genes: "BRCA", "OV", "LUSC", "KIPAN", "KIRP", "UCEC" con riesgo de desarrollar cancer y sus factores de transcripción: "GATA3", "PTEN",  "XBP1",  "ESR1",  "MUC1", "FN1", "GAPDH", "GAPDH", "XBP1".<br>
 **mRNA_expr_summary.doc** → es una Descriptive table de mRNA_expr.csv<br>
 **figure** → 7 boxplots del dataset de mRNA_expr.csv<br>
