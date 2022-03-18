@@ -30,31 +30,31 @@ Microsoft Graphics Hybrid: Not Supported
 ## Versión de R y de cada uno de los módulos/paquetes utilizados
 ### "R version 4.1.3 (2022-03-10)"
 ### Módulos 
-              **Package**    **Version**<br>     
-colorspace    "colorspace"    "2.0-3"<br>     
-data.table    "data.table"    "1.14.2"<br>    
-dbplyr        "dbplyr"        "2.1.1"<br>     
-dplyr         "dplyr"         "1.0.8"<br>     
-evaluate      "evaluate"      "0.15"<br>      
-ggplot2       "ggplot2"       "3.3.5"<br>     
-jsonlite      "jsonlite"      "1.8.0"<br>     
-knitr         "knitr"         "1.37"<br>      
-markdown      "markdown"      "1.1"<br>       
-readr         "readr"         "2.1.2"<br>     
-rmarkdown     "rmarkdown"     "2.12"<br>      
-rstatix       "rstatix"       "0.7.0"<br>     
-sjmisc        "sjmisc"        "2.8.9"<br>     
-sjPlot        "sjPlot"        "2.8.10"<br>    
-sjstats       "sjstats"       "0.18.1"<br>    
-sys           "sys"           "3.4"<br>       
-tidyr         "tidyr"         "1.2.0"<br>     
-tidyverse     "tidyverse"     "1.3.1"<br>     
-tinytex       "tinytex"       "0.37"<br>      
-base          "base"          "4.1.3"<br>     
-datasets      "datasets"      "4.1.3"<br>     
-stats         "stats"         "4.1.3"<br>     
-tools         "tools"         "4.1.3"<br>     
+**Package**       **Version**<br>     
+"colorspace"      "2.0-3"<br>     
+"data.table"      "1.14.2"<br>    
+"dbplyr"          "2.1.1"<br>     
+"dplyr"           "1.0.8"<br>     
+"evaluate"        "0.15"<br>      
+"ggplot2"         "3.3.5"<br>     
+"jsonlite"        "1.8.0"<br>     
+"knitr"           "1.37"<br>      
+"markdown"        "1.1"<br>       
+"readr"           "2.1.2"<br>     
+"rmarkdown"       "2.12"<br>      
+"rstatix"         "0.7.0"<br>     
+"sjmisc"          "2.8.9"<br>     
+"sjPlot"          "2.8.10"<br>    
+"sjstats"         "0.18.1"<br>    
+"sys"             "3.4"<br>       
+"tidyr"           "1.2.0"<br>     
+"tidyverse"       "1.3.1"<br>     
+"tinytex"         "0.37"<br>      
+"base"            "4.1.3"<br>     
+"datasets"        "4.1.3"<br>     
+"stats"           "4.1.3"<br>     
+"tools"           "4.1.3"<br>     
 ## Explicación de la data utilizada
-**mRNA_expr.csv** → La tabla descriptiva muestran las características de mutaciones en los genes: "BRCA", "OV", "LUSC", "KIPAN", "KIRP", "UCEC" con riesgo de desarrollar cancer y sus factores de transcripción: "GATA3", "PTEN",  "XBP1",  "ESR1",  "MUC1", "FN1", "GAPDH", "GAPDH", "XBP1".
+**mRNA_expr.csv** → Se muestras datos y características de mutaciones en los genes: "BRCA", "OV", "LUSC", "KIPAN", "KIRP", "UCEC" con riesgo de desarrollar cancer y sus factores de transcripción: "GATA3", "PTEN",  "XBP1",  "ESR1",  "MUC1", "FN1", "GAPDH", "GAPDH", "XBP1".
 **mRNA_expr_summary.doc** → es una Descriptive table de mRNA_expr.csv<br>
 **figure** → 7 boxplots del dataset de mRNA_expr.csv<br>
